@@ -1,6 +1,3 @@
-Name: Jinduo Guo
-SID: 918330642
-
 Brief Description:
 In the project, I make a game that allowed two players to play different color tokens to win the game if there tokens are having 4 in 
 a line(Horizontal, vertical, diagonal). There should be text mode and graphic mode that can be changed depend on user's choice. But due
